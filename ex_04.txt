@@ -1,0 +1,3 @@
+dieser Code funktioniert nicht, er ist deutsch und nicht javascript
+
+"<a class='gotoLine' href='#41:8'>41:8</a> Uncaught SyntaxError: Unexpected identifier"
